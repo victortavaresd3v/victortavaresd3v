@@ -1,16 +1,63 @@
-### Hi there 👋
+![Victor Tavares](./topo.png)
 
-<!--
-**victortavaresd3v/victortavaresd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/victortavaresdev"><img src="https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white" height="20" /></a>
+  <a href="mailto:victortavaresdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
+  <a href="https://www.linkedin.com/in/victor-tavares-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/victortavaresdev/victortavaresdev/blob/main/README_PT.md">🇧🇷 Português</a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🙋‍♂️ Hi, I'm Victor Tavares, Full Stack Developer from Brazil.
+  <br>
+  <br>
+  🤓 Full Stack Developer with focus on TypeScript & PHP.
+  <br>
+  💻 I love writing code and solving problems.
+  <br>
+  👨‍💻 I'm always open to learning about new solutions and technologies.
+  <br>
+  📫 How to reach me: <a href="mailto: victortavaresdev@gmail.com">victortavaresdev@gmail.com</a>
+</p>
+
+<hr>
+
+<h3 align="center">🔥 Languages, Frameworks & Tools 🔥</h3>
+
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/html5.png" alt="html5" height="32" />     </a>
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" height="32" /> </a>
+   <a href="https://tailwindcss.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/tailwind.png" height="30" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/js.png" alt="javascript" height="32"/> </a> 
+   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/typescript.png" alt="typescript" height="32"/> </a> 
+   <a href="https://vuejs.org/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/vueJS.png" height="30" /></a>
+     <a href="https://nuxt.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" height="30" /></a>
+   <a href="https://nodejs.org/en/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/node.png" height="30" /></a>
+   <a href="https://expressjs.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/express-js.png" height="30" /></a>
+   <a href="https://www.php.net/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/php.png" height="30" /></a>
+   <a href="https://laravel.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/laravel.png" height="30" /></a>
+   <a href="https://www.docker.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/docker.png" height="30" /></a>
+   <a href="https://jestjs.io/pt-BR/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jestt.png" height="30" /></a>
+   <a href="https://phpunit.de/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/phpunit.png" height="30" /></a>
+   <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
+   <a href="https://aws.amazon.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/aws.png" height="32" /></a>
+</p>
+
+#
+
+<h3 align="center">⚡ Github Stats ⚡</h3>
+
+<div align="center" href="https://github.com/victortavaresdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortavaresdev&layout=compact&theme=tokyonight" />
+</div>
+
+#
+
+<div align="center">
+
+### Never stop learning 👍
+
+</div>
