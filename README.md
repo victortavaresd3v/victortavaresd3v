@@ -43,7 +43,6 @@
    <a href="https://jestjs.io/pt-BR/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/jestt.png" height="30" /></a>
    <a href="https://phpunit.de/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/phpunit.png" height="30" /></a>
    <a href="https://git-scm.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/gitt.png" height="32" /></a>
-   <a href="https://aws.amazon.com/"><img src="https://github.com/victortavaresdev/victortavaresdev/blob/main/aws.png" height="32" /></a>
 </p>
 
 #
